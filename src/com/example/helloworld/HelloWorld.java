@@ -6,5 +6,6 @@ public class HelloWorld {
         int x = 1;
         class1.say_hi();
         System.out.println("hiiii");
+        System.out.println("jhdjgu");
     }
 }
