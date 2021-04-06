@@ -7,7 +7,8 @@ public class HelloWorld {
         class1.say_hi();
         System.out.println("hiiii");
 
-        System.out.println("jhdjgu");
+        System.out.println("sseeccoonndd");
         System.out.println("this is yael's line");
+
     }
 }
