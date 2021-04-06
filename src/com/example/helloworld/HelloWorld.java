@@ -5,8 +5,8 @@ public class HelloWorld {
         System.out.println("Hello World");
         int x = 1;
         class1.say_hi();
-        System.out.println("hiiii");
-        System.out.println("jhdjgu");
+        System.out.println("hi");
+        System.out.println("jog");
         int y = 1000;
     }
 }
